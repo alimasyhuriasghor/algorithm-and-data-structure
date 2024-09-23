@@ -1,5 +1,18 @@
-# Assalamualaikum, hi! Welcome to my Algorithm and Data Structure repository.
-This repository contains my Algorithm and Data Strucutre tutorials across all sources. Each Algorithm and Data Structure tutorials will have their own branches, and references from where i borrow it.
+# Hello! Welcome to my from-w3school branch
+In this branch I'll mainly used the algorithm and data structures reference from [w3schools](https://www.w3schools.com/dsa/dsa_intro.php).
 
-# What is an Algorithm and Data Structure?
-To put it simply Algorithm is a set of instructions for accomphlising a task, whereas a Data Structure is a way to store, and manage a data in our computer so that it can be accesed and used it effiecently.
+W3schools is an online free coding learning website. It provides more tutorials than just an algorithm and data structures topic. So, feel free to explore of what topics are you interested in.
+
+## What are Data Structures?
+Data structures are a way to organize, and store a data so it can be used it efficiently.
+
+Data structures is how data can be stored in different structures. We structure data in different ways depending on what data we have, and what we want to do with it. For instance, A family tree could be called a data structure as they provide a way to organize, and store data about our family. Family tree is choosed because we need a way to organize, and store our family's member about how they related to each other.
+
+## What are Algorithms?
+Algorithms are a step-by-step instructions to solve a given problem or achieve a spesific goal.
+
+A cooking recipe written on a piece of paper, or a packaging are an example of an algorithms, where the goal is to make a certain dinner.
+
+When we talk about algorithms in Computer Science, the step-by-step instructions are written in a programming languages, and instead of how to make a foods, an algorithm uses a data structure to manipulate it.
+
+Algorithms are fundamental in Computer Science as they provide step-by-step instructions for executing tasks. An efficient Algorithm can help us to find the solution that we are looking for, and to transform a slow program into a faster program.
