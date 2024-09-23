@@ -6,7 +6,7 @@ W3schools is an online free coding learning website. It provides more tutorials 
 ## What are Data Structures?
 Data structures are a way to organize, and store a data so it can be used it efficiently.
 
-Data structures is how data can be stored in different structures. We structure data in different ways depending on what data we have, and what we want to do with it. For instance, A family tree could be called a data structure as they provide a way to organize, and store data about our family. Family tree is choosed because we need a way to organize, and store our family's member about how they related to each other.
+Data structures is how data can be stored in different structures. We structure data in different ways depending on what data we have, and what we want to do with it. For instance, A family tree could be called a data structure as they provide a way to organize, and store data about our family members. Family tree is choosed because we need a way to organize, and store our family's member about how they related to each other.
 
 ## What are Algorithms?
 Algorithms are a step-by-step instructions to solve a given problem or achieve a spesific goal.
